@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "ES6", // Target modern JavaScript
+        "module": "commonjs", // Node.js module system
+        "strict": true, // Enable strict type-checking
+        "esModuleInterop": true // Enable interoperability between CommonJS and ES Modules
+    }
+}
